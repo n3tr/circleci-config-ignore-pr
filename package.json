@@ -1,0 +1,12 @@
+{
+  "name": "circleci-config-ignore-pr",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Test: Passed\""
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
